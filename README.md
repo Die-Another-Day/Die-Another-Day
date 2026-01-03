@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Eeshan Garg 👋 
+# Hi there, I'm Eeshan Agrawal 👋 
 
 ### 🛡️ Cybersecurity Student | Aspiring SOC Analyst | Certified Red Team Analyst (CRTA)
 
@@ -26,25 +26,8 @@ I am a Computer Science & Cybersecurity student with a passion for defending dig
 
 ---
 
-### 📁 Featured Projects & Labs
-* **[Project Name]** - Description of a project involving log analysis or a security tool you built.
-* **[Incident Response Simulation]** - A write-up or repository detailing how you handle specific attack vectors (e.g., Brute Force or Phishing).
-
 ---
 
-### 📊 GitHub Stats
-![Eeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshangarg888&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeshangarg888&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/eeshangarg888](https://www.linkedin.com/in/eeshangarg888)
-- **Portfolio:** [Your Website Link if applicable]
-- **Email:** eeshan.garg.888@gmail.com
-
----
-*"Security is not a product, but a process."*
 
 
 ## 🌐 Socials:
@@ -71,4 +54,4 @@ I am a Computer Science & Cybersecurity student with a passion for defending dig
 ---
 [![](https://visitcount.itsvg.in/api?id=Die-Another-Day&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##*"Security is not a product, but a process."*
