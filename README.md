@@ -3,7 +3,7 @@
 
 ### 🛡️ Cybersecurity Student | Aspiring SOC Analyst | Certified Red Team Analyst (CRTA)
 
-I am a third-year B.Tech Computer Science & Cybersecurity student at Parul University with a passion for defending digital infrastructures. I specialize in incident response, log analysis, and threat hunting, backed by both offensive and defensive certifications.
+I am a Computer Science & Cybersecurity student with a passion for defending digital infrastructures. I specialize in incident response, log analysis, and threat hunting, backed by both offensive and defensive certifications.
 
 ---
 
